@@ -1,34 +1,14 @@
 ---
 title: Akhil
 ---
-# John Doe
+# Akhil Thundiyil Narendran
 
-**Full Stack Developer**  
-[Website](https://johndoe.com) | [LinkedIn](https://linkedin.com/in/johndoe) | [GitHub](https://github.com/johndoe) | johndoe@email.com
+<span class="iconify" data-icon="charm:person"></span> [akhiltn.dev](https://akhiltn.dev/)
+  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/akhiltn](https://github.com/akhiltn)
+  : <span class="iconify" data-icon="tabler:phone"></span> [(+91) 78292 11234](https://wa.me/917829211234)
 
-## Summary
-Experienced Full Stack Developer with a passion for building scalable web applications and solving complex problems. Skilled in JavaScript, Python, and cloud technologies.
-
-## Skills
-- Frontend: HTML, CSS, JavaScript, React, Angular
-- Backend: Node.js, Python, Java, Golang
-- Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git, Docker, AWS, Jenkins
+<span class="iconify" data-icon="ic:outline-location-on"></span> Bangalore, India
+  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/akhiltn](https://www.linkedin.com/in/akhiltn)
+  : <span class="iconify" data-icon="tabler:mail"></span> [tnakhil@gmail.com](mailto:tnakhil@gmail.com)
 
 ## Experience
-
-### Software Engineer | Company ABC | Jan 2022 – Present
-- Developed and maintained full-stack web applications using React and Node.js.
-- Led the migration of legacy systems to AWS cloud infrastructure, reducing costs by 20%.
-- Implemented CI/CD pipelines with Jenkins and Docker for automated testing and deployment.
-
-### Junior Developer | Company XYZ | Jul 2019 – Dec 2021
-- Assisted in the development of e-commerce applications using Angular and Java Spring Boot.
-- Wrote unit and integration tests, improving code coverage by 30%.
-
-## Education
-**B.Sc. in Computer Science** | University of XYZ | 2019
-
-## Certifications
-- AWS Certified Solutions Architect – Associate
-- Google Cloud Professional Cloud Developer
