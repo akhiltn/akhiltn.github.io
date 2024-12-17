@@ -1,10 +1,3 @@
----
-title: "My Resume"
-layout: default
-description: "This is my professional resume."
----
-<link rel="stylesheet" href="style.css">
-
 # John Doe
 
 **Full Stack Developer**  
