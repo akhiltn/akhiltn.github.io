@@ -9,7 +9,7 @@ title: Akhil
 
 ---
 ## Summary
-Software Engineer with 11+ years of experience in Full Stack Development, specializing in GO/Python/Java, designing RESTful APIs in Spring Boot, Angular/TypeScript, ETL, Data Engineering, AWS Cloud Solutions, microservices, process optimization, and strategic reporting. Demonstrated expertise as a lead engineer in reducing costs through AWS migrations, optimizing cloud database replication, upgrading Spring Boot applications, streamlining workflows, and enhancing ETL pipelines. Holds AWS Associate and Terraform certifications.
+Software Engineer with 11+ years of experience in Full Stack Development, designing web applications using Go, Python, and Java. Specializes in RESTful APIs, Spring Boot, Angular/TypeScript, ETL, Data Engineering, AWS Cloud Solutions, microservices, process optimization, and strategic reporting. Demonstrates expertise as a lead engineer in reducing costs through AWS migrations, optimizing cloud database replication, upgrading Spring Boot applications, streamlining workflows, enhancing ETL data pipelines, adopting OAuth2 security protocols, and improving UI/UX with Angular Material upgrades. Skilled in collaboration, stakeholder management, and delivering high-quality solutions aligned with organizational goals. Holds AWS Associate and Terraform certifications, reflecting a strong commitment to continuous learning and delivering impactful results.
 
 ---
 
