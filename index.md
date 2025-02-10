@@ -64,6 +64,7 @@ Software Engineer with 11+ years of experience in Full Stack Development, design
 | **Frontend Frameworks**   | Angular, RxJS, Ag-Grid                                                                               |
 | **Cloud Technologies**    | AWS (StepFunctions, ECS, RDS, Glue, S3), Terraform, Cloud Foundry                                    |
 | **DevOps Tools**          | CI/CD, Confluence, Docker, Git, Jenkins                                                             |
+| **Testing:**              | Jasmin/Karma, Cucumber, Spring Test, JUnit, Mokito, Selenium                                                |
 
 ---
 

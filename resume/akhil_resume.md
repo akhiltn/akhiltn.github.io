@@ -1,5 +1,4 @@
 ---
-
 ---
 
 # Akhil Thundiyil Narendran
@@ -13,7 +12,7 @@
   : <span class="iconify" data-icon="tabler:mail"></span> [tnakhil@gmail.com](mailto:tnakhil@gmail.com)
 ## Summary
 
-Software Engineer with 11+ years of experience in Full Stack Development focused in Banking and FinOps domain, designing web applications using Go, Python, and Java. Specializes in RESTful APIs, Spring Boot, Angular/TypeScript, ETL, Data Engineering, AWS Cloud Solutions, microservices, process optimization, and strategic reporting. Demonstrates expertise as a lead engineer in reducing costs through AWS migrations, optimizing cloud database replication, upgrading Spring Boot applications, streamlining workflows, enhancing ETL data pipelines, adopting OAuth2 security protocols, and improving UI/UX with Angular Material upgrades. Skilled in collaboration, stakeholder management, and delivering high-quality solutions aligned with organizational goals. Holds AWS Associate and Terraform certifications, reflecting a strong commitment to continuous learning and delivering impactful results.
+Software Engineer with 11+ years of experience in Full Stack Development, specializing in GO/Python/Java Spring Boot, Angular/TypeScript, ETL, Data Engineering, AWS Cloud Solutions, microservices, process optimization, and strategic reporting. Demonstrated expertise as a lead engineer in reducing costs through AWS migrations, optimizing cloud database replication, upgrading Spring Boot applications, streamlining workflows, enhancing ETL data pipelines, adopting OAuth2 security protocols, and improving UI/UX with Angular Material upgrades. Skilled in collaboration, stakeholder management, and delivering high-quality solutions aligned with organizational goals. Holds AWS Associate and Terraform certifications, showcasing a strong commitment to continuous learning and delivering impactful results.
 
 
 ## Experience
@@ -70,13 +69,7 @@ Software Engineer with 11+ years of experience in Full Stack Development focused
 | **Frontend Frameworks:**   | Angular, RxJS, Ag-Grid                                                                             |
 | **Cloud Technologies:**    | AWS Cloud Solutions (StepFunctions, ECS Fargate, RDS, Glue, S3, Route 53, VPC, Security Groups, Lambda), Terraform, Cloud Foundry |
 | **DevOps and Tools:**       | CI/CD pipelines, Confluence, Docker, Git, Jenkins                                                |
-
-## Education
-**Bachelor of Engineering**
-  : **Sep 2009 - Jul 2013**
-
-Sathyabama Institute of Technology
-  : Chennai, India
+| **Testing:**       | Jasmin/Karma, Cucumber, Spring Test, JUnit, Mokito, Selenium                                                |
 
 
 ## Certifications
@@ -86,4 +79,12 @@ AWS Certified Developer - Associate
 
 HashiCorp Certified: Terraform Associate
   : 2023
+
+
+## Education
+**Bachelor of Engineering**
+  : **Sep 2009 - Jul 2013**
+
+Sathyabama Institute of Technology
+  : Chennai, India
 
