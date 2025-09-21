@@ -20,19 +20,18 @@ Software Engineer with 11+ years of experience in Full Stack Development, specia
   : **JP Morgan**
   : **Oct 2019 - Present**
 
-- **AWS Cloud Migration**: Led the on-prem to AWS migration, release planning, code synchronization, and critical process enhancements. Implemented AWS StepFunctions with EventBridge and S3 for ETL job migration, implemented app-to-app communication in ECS Fargate, and developed a proxy Internet Proxy, achieving seamless production deployment and further providing support along with SRE.
+- **AWS Cloud**: Experienced in designing cost-optimized serverless architectures with Lambda and API Gateway, and building containerized microservices using ECS (Fargate), Docker, and Kubernetes. Hands-on with event-driven architectures leveraging Kafka, Kinesis, EventBridge, and Step Functions for scalable workflows. Proficient in working with cloud databases including RDS (Oracle/Postgres), DynamoDB, Athena, and S3 for storage and analytics. Strong background in ETL job migration, data lake integration (Databricks, Apache Spark), and process optimization, consistently delivering cost-efficient, production-ready cloud solutions.
 - **Database Migration and Optimization**: Successfully migrated on-premises Oracle databases to AWS, ensuring optimal performance through replication strategies, data dump migration processes, database preparation, and thorough DB admin configurations. Ensured smooth transitions while maintaining high availability and scalability.
 - **Databricks & Big Data Engineering**: Built scalable ETL pipelines to load data into Databricks using PySpark and integrated with Delta Lake. Enabled web application connectivity to Databricks, supporting real-time data visualization and downstream triggers.Designed and scheduled Databricks workflows using AWS, JAVA, Python and PySpark, supporting big data use cases.
-- **Spring Boot Microservices**: Managed and maintained multiple Spring Boot microservices, with a focus on Sonar Scanning, Open Source Scanning (OSS) and static code scans to ensure best practices and security compliance. Performed periodic Spring Boot upgrades to keep services up-to-date, and developed new domain-driven microservices aligned with business needs and best practices.
-- **Frontend Development with Angular/React**: Spearheaded migration from legacy frameworks to Angular with Material Design, implementing modern UI/UX enhancements. Integrated Reduc/RxJS for state management, HTTP interceptors for seamless API handling, and Ag-Grid for efficient data visualization. Optimized performance using lazy loading, auth guards, and OAuth2 for secure and scalable authentication and routing.
-- **Reporting Implementaiton**: Designed and implemented reporting framework to migrate reports from SAP BusinessObjects, so as to enable independent report generation, improve user experience, and eliminate operational dependencies, streamlining processes across teams.
-- **Compliance and Testing**: Developed end-to-end test cases for apps using Selenium and Playwright, and ensured high-quality deliverables through thorough use case development, testing, and prompt resolution of UAT issues. Maintained clear communication with stakeholders to align project outcomes with business goals.
+- **Spring Boot Microservices**: Extensive experience designing and developing scalable, resilient microservices using Java Spring Boot. Skilled in building RESTful APIs, implementing OAuth2/JWT security, and integrating with databases (SQL/NoSQL) and messaging systems (Kafka). Hands-on with Dockerized deployments, CI/CD pipelines, and cloud-native integration on AWS/ECS/Kubernetes. Strong focus on performance tuning, cost optimization, and high availability, ensuring robust backend services that align with business needs.
+- **Frontend Development with Angular/React**: Led migration from legacy frameworks to Angular with Material Design, delivering modern UI/UX enhancements. Implemented state management with Redux/RxJS, HTTP interceptors for seamless API communication, and Ag-Grid for advanced data visualization. Optimized performance with lazy loading, auth guards, and OAuth2-based authentication, ensuring secure, scalable, and high-performing front-end applications.
+- **Testing & Compliance**: Implemented TDD using JUnit and BDD with Cucumber, designing and executing end-to-end test cases with Selenium and Playwright. Applied code quality and security checks using Sonar, Snyk, OSS scanning, and static monitoring tools, ensuring secure, reliable, and compliant software delivery.
 - **Leadership and Collaboration**: Acted as the Subject Matter Expert (SME) for VatEngine, fostering teamwork and strategic planning during AWS migration. Promoted a feedback-driven culture to enhance team cohesion, morale, and efficiency.
 - **Documentation and Knowledge Sharing**: Maintained comprehensive documentation in Confluence, supporting smooth application transitions and strategic planning. Ensured consistent knowledge transfer across teams to uphold operational excellence.
-- **Cost Optimization**: Delivered cost-efficient solutions through cloud database replication, infrastructure modernization, and workflow streamlining, achieving alignment with organizational objectives.
 - **Community Engagement**: Actively contributed to team culture by hosting and participating in local events, including sports meets and hackathons. Organized and led technical demo sessions and knowledge transfers (KT) to foster collaboration and continuous learning within and across teams.
-- **UAT and Compliance:** Worked closely with stakeholders to develop and test use cases, resolve UAT issues promptly, and ensure alignment with compliance standards. This approach fostered trust and collaboration, resulting in high-quality deliverables.
+- **Artificial Intelligence (AI)**: Leveraging AI tools like GitHub Copilot and Windsurf and applying prompt engineering to accelerate development, enhance code quality, and automate repetitive tasks. Integrating AI-driven solutions with MCP servers in applications to enable intelligent automation, process optimization, and data-driven insights, improving decision-making and delivering high-impact, efficient enterprise solutions
 
+<br/><br/>
 <br/><br/>
 <br/><br/>
 
@@ -65,10 +64,10 @@ Software Engineer with 11+ years of experience in Full Stack Development, specia
 |  |  |
 |---|---|
 | **Programming Languages:** | Java, Spring Boot, Go, Python, TypeScript                                                         |
-| **Frontend Frameworks:**   | Angular, RxJS, Ag-Grid                                                                             |
-| **Cloud Technologies:**    | AWS Cloud Solutions (StepFunctions, ECS Fargate, RDS, Glue, S3, Route 53, VPC, Security Groups, Lambda), Terraform, Cloud Foundry |
-| **DevOps and Tools:**       | CI/CD pipelines, Confluence, Docker, Git, Jenkins                                                |
-| **Testing:**       | Jasmin/Karma, Cucumber, Spring Test, JUnit, Mokito, Selenium                                                |
+| **Frontend Frameworks:**   | Angular, React, RxJS, Ag-Grid                                                                             |
+| **Cloud Technologies:**    | AWS Cloud Solutions (Lambda, Step Functions, API Gateway, ECS Fargate, RDS [Oracle/Postgres], DynamoDB, Glue, S3, Route 53, VPC, Security Groups), Terraform, Cloud Foundry |
+| **DevOps and Tools:**       | CI/CD Jenkins/Spinnaker pipelines, Docker, Kubernetes, Git, Confluence, Sonar, Snyk, OSS scanning, static monitoring                                                |
+| **Testing:**       | TDD with JUnit, BDD with Cucumber, Jasmine/Karma, Spring Test, Mockito, Selenium, Playwright                                                |
 
 
 ## Certifications
