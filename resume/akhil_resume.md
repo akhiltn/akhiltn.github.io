@@ -12,7 +12,7 @@
   : <span class="iconify" data-icon="tabler:mail"></span> [tnakhil@gmail.com](mailto:tnakhil@gmail.com)
 ## Summary
 
-Software Engineer with 11+ years of experience in Full Stack Development, specializing in GO/Python/Java Spring Boot, Angular/React, ETL, Data Engineering, AWS Cloud Solutions, microservices, process optimization, and strategic reporting. Demonstrated expertise as a lead engineer in reducing costs through AWS migrations, optimizing cloud database replication, upgrading Spring Boot applications, streamlining Databricks workflows, enhancing ETL data pipelines, adopting OAuth2 security protocols, and improving UI/UX with Angular and React. Skilled in collaboration, stakeholder management, and delivering high-quality solutions aligned with organizational goals. Holds AWS Associate and Terraform certifications, showcasing a strong commitment to continuous learning and delivering impactful results.
+Polyglot Software Engineer (Java/Python/Go/Node.js/TypeScript) with 11+ years of experience in Full Stack Development, bringing strong expertise in front-end frameworks (Angular/React) and backend API development (Spring Boot/Fiber). Experienced in system design, serverless architectures, Docker containers, and event-driven solutions. Skilled in building and optimizing data lake systems such as Databricks, designing Apache Spark workflows for ETL, and driving process optimization initiatives. Adept at aligning technical solutions with business goals, while ensuring scalability, security, and performance. Recognized for collaboration, stakeholder management, and delivery of high-quality systems. Holds AWS Associate and Terraform certifications, underscoring a strong commitment to continuous learning and impactful results.
 
 
 ## Experience
