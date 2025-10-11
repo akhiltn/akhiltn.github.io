@@ -15,9 +15,8 @@ Polyglot Software Engineer (Java/Python/Go/Node.js/TypeScript) with 11+ years of
 
 ## Experience
 
-**Lead Software Engineer**
-  : **JP Morgan**
-  : **Oct 2019 - Present**
+### **Senior Software Engineer - Associate**  
+**JP Morgan** — *Oct 2019 - Present**
 
 - **AWS Cloud**: Experienced in designing cost-optimized serverless architectures with Lambda and API Gateway, and building containerized microservices using ECS (Fargate), Docker, and Kubernetes. Hands-on with event-driven architectures leveraging Kafka, Kinesis, EventBridge, and Step Functions for scalable workflows. Proficient in working with cloud databases including RDS (Oracle/Postgres), DynamoDB, Athena, and S3 for storage and analytics. Strong background in ETL job migration, data lake integration (Databricks, Apache Spark), and process optimization, consistently delivering cost-efficient, production-ready cloud solutions.
 - **Database Migration and Optimization**: Successfully migrated on-premises Oracle databases to AWS, ensuring optimal performance through replication strategies, data dump migration processes, database preparation, and thorough DB admin configurations. Ensured smooth transitions while maintaining high availability and scalability.

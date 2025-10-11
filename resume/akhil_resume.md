@@ -2,6 +2,12 @@
 ---
 
 # Akhil Thundiyil Narendran
+<p align="center" style="font-size: 1.2em; font-weight: bold; font-family: 'Courier New', monospace;">
+    Full Stack Polyglot Developer 
+</p>
+<p>&nbsp;</p> 
+<hr style="border: 0.5px solid black; margin: 0 auto; width: 100%; " />
+<p>&nbsp;</p> 
 
 <span class="iconify" data-icon="charm:person"></span> [akhiltn.dev](https://akhiltn.dev/)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/akhiltn](https://github.com/akhiltn)
@@ -16,7 +22,7 @@ Polyglot Software Engineer (Java/Python/Go/Node.js/TypeScript) with 11+ years of
 
 
 ## Experience
-**Lead Software Engineer**
+**Senior Software Engineer**
   : **JP Morgan**
   : **Oct 2019 - Present**
 
@@ -33,7 +39,7 @@ Polyglot Software Engineer (Java/Python/Go/Node.js/TypeScript) with 11+ years of
 
 <br/><br/>
 <br/><br/>
-<br/><br/>
+
 
 **Software Engineer - Associate**
   : **Cognizant Technology Solutions**
