@@ -9,7 +9,7 @@ title: Akhil
 
 ---
 ## Summary
-Polyglot Software Engineer (Java/Python/Go/Node.js/TypeScript) with 11+ years of experience in Full Stack Development, bringing strong expertise in front-end frameworks (Angular/React) and backend API development (Spring Boot/Fiber). Experienced in system design, serverless architectures, Docker containers, and event-driven solutions. Skilled in building and optimizing data lake systems such as Databricks, designing Apache Spark workflows for ETL, and driving process optimization initiatives. Adept at aligning technical solutions with business goals, while ensuring scalability, security, and performance. Recognized for collaboration, stakeholder management, and delivery of high-quality systems. Holds AWS Associate and Terraform certifications, underscoring a strong commitment to continuous learning and impactful results.
+Polyglot Software Engineer (Java/Python/Go/Node.js/TypeScript) with 12+ years of experience in Full Stack Development, bringing strong expertise in front-end frameworks (Angular/React) and backend API development (Spring Boot/Fiber). Experienced in system design, serverless architectures, Docker containers, and event-driven solutions. Skilled in building and optimizing data lake systems such as Databricks, designing Apache Spark workflows for ETL, and driving process optimization initiatives. Adept at aligning technical solutions with business goals, while ensuring scalability, security, and performance. Recognized for collaboration, stakeholder management, and delivery of high-quality systems. Holds AWS Associate and Terraform certifications, underscoring a strong commitment to continuous learning and impactful results.
 
 ---
 
