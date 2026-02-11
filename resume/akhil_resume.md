@@ -4,7 +4,7 @@
 # Akhil Thundiyil Narendran
 
 <p align="center" style="font-size: 1.2em; font-weight: bold; font-family: 'Courier New', monospace;">
-    Full Stack Polyglot Developer 
+    Full Stack Developer 
 </p>
 <p>&nbsp;</p> 
 <hr style="border: 0.5px solid black; margin: 0 auto; width: 100%; " />
